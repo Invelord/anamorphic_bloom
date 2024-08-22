@@ -15,6 +15,6 @@ This is a repository for people who wants to use Anamorphic Bloom project from o
 2. Quality isn't the best, but the performance is good
 3. Does not use any kind of blur (e.g. gaussian, box blur, etc)
 
-# Credits:  
+# Credits  
 Art: https://www.artstation.com/wlop  
 Code Reference: https://echoesofsomewhere.com/2023/09/04/custom-post-process-effect-anamorphic-bloom/
