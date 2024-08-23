@@ -3,8 +3,6 @@ This is a repository for people who wants to use Anamorphic Bloom project from o
 
 ![Screenshot](sample_img.png)
 
-# Video Tutorial
-![Anamorphic Bloom in URP](https://www.youtube.com/@Invelord)
 
 # Requirements
 1. Project is using Unity 2022 LTS. If you want to use older versions, try downloading the .unitypackage file instead and just import that into your unity project.
